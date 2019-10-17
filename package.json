@@ -1,0 +1,35 @@
+{
+  "name": "luciano-gulp",
+  "version": "1.0.0",
+  "description": "Pacote pra minificar html, sass e browsersync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luckzzz/teste-desenvolvedor-ecan.git"
+  },
+  "keywords": [
+    "html",
+    "sass",
+    "browsersync"
+  ],
+  "author": "Luciano Horta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luckzzz/teste-desenvolvedor-ecan/issues"
+  },
+  "homepage": "https://github.com/Luckzzz/teste-desenvolvedor-ecan#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^3.2.1"
+  },
+  "dependencies": {
+    "node": "^11.11.0"
+  }
+}

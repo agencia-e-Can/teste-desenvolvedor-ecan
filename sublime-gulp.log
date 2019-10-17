@@ -1,0 +1,306 @@
+Remember that you can report errors and get help in https://github.com/NicoSantangelo/sublime-gulp
+
+10-16-2019 22:24:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:26:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:27:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:35:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:40:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:57:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:57:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:57:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:58:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 22:58:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 23:07:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 23:19:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 23:19:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 23:20:
+fs.js:154
+    throw new ERR_INVALID_CALLBACK(cb);
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.unlink (fs.js:1035:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:945:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:962:10)
+    at Module.load (internal/modules/cjs/loader.js:798:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:711:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1014:10)
+    at internal/main/run_main_module.js:17:11
+
+
+10-16-2019 23:43:
+fs.js:141
+    throw new ERR_INVALID_CALLBACK();
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at makeCallback (fs.js:141:11)
+    at Object.unlink (fs.js:959:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:805:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)
+    at Module.load (internal/modules/cjs/loader.js:672:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:604:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:868:12)
+
+
+10-16-2019 23:44:
+fs.js:141
+    throw new ERR_INVALID_CALLBACK();
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at makeCallback (fs.js:141:11)
+    at Object.unlink (fs.js:959:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:805:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)
+    at Module.load (internal/modules/cjs/loader.js:672:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:604:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:868:12)
+
+
+10-16-2019 23:47:
+fs.js:141
+    throw new ERR_INVALID_CALLBACK();
+    ^
+
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at makeCallback (fs.js:141:11)
+    at Object.unlink (fs.js:959:14)
+    at requireGulp (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:30:12)
+    at Object.<anonymous> (C:\Users\Luck\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:83:12)
+    at Module._compile (internal/modules/cjs/loader.js:805:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:816:10)
+    at Module.load (internal/modules/cjs/loader.js:672:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:612:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:604:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:868:12)
