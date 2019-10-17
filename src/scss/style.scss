@@ -647,8 +647,14 @@ h3 {
         margin-top: -10px;
     }
 }
+
 section.footer h3 {
     font-size: 1.15em !important;
+}
+
+.footer a:hover { 
+	text-decoration: none; 
+	color: #f71963; 
 }
 
 @media (min-width: 768px) {
@@ -666,7 +672,7 @@ section.footer h3 {
     font-weight: bold;
     font-size: .75em;
     background: #f0f0f0;
-    padding: 2px 19px;
+    padding: 2px 12px;
     padding-bottom: 6px;
     transform: scale(.9);
     text-align: center;
