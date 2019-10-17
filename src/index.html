@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="pt-br">
 
 <head>
   <meta charset="utf-8">
@@ -11,8 +11,8 @@
   <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
 
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/style.css">
 
   <meta name="theme-color" content="#f71963">
   
@@ -23,14 +23,14 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   
     <!-- SLICK SLIDER CSS: -->
-    <link rel="stylesheet" href="css/slick.css">
-    <link rel="stylesheet" href="css/slick-theme.css">
+    <link rel="stylesheet" href="./css/slick.css">
+    <link rel="stylesheet" href="./css/slick-theme.css">
 
 </head>
 
 <body>
   <!--[if IE]>
-    <p class="browserupgrade">Você está usando um <strong>navegador desatualizado</strong>. Por favor, <a href="https://browsehappy.com/">atualizde</a> para melhorar sua experiência e segurança.</p>
+    <p class="browserupgrade">Você está usando um <strong>navegador desatualizado</strong>. Por favor, <a href="https://browsehappy.com/">atualize</a> para melhorar sua experiência e segurança.</p>
   <![endif]-->
 
 <header class="main-background container-fluid">
@@ -53,7 +53,7 @@
                         <a class="nav-link" href="#">Produtos</a>
                     </li>
                     <li class="nav-item search-icon">
-                        <a class="nav-link" href="#"><img src="img/search.png" /></a>
+                        <input type="search nav-link" id="site-search" name="q" placeholder="Pesquise aqui..." aria-label="Pesquise todo o site aqui..."><img src="img/search.png" />
                     </li>
                 </ul>
             </div>
@@ -66,11 +66,13 @@
         </div> <!-- /container -->
     </nav>
 	
-	<div class="text-box-header">
-		<h1> Omnichannel </h1>
-		<p> Nossa loja conceito reune as principais funcionalidades <strong>VTEX</strong>, para revolucionar a forma dos seus clientes interagirem do <span class="nowrap">e-commerce</span>. </p>
-		<a href="#"> Saiba mais > </a>
-	</div>
+  <div class="container">
+  	<div class="text-box-header">
+  		<h1> Omnichannel </h1>
+  		<p> Nossa loja conceito reune as principais funcionalidades <strong>VTEX</strong>, para revolucionar a forma dos seus clientes interagirem do <span class="nowrap">e-commerce</span>. </p>
+  		<a href="#"> Saiba mais > </a>
+  	</div>
+  </div>
 	
 	<div class="retangulo-arredondado">
 		<span> </span>
@@ -148,7 +150,7 @@
             </div>
             <div class="col-md-4 offset-md-4">
                 <div class="diferenciais-img">
-                    <img src="img/drivethru.png" alt="retire-na-loja">
+                    <img src="img/drivethru.png" alt="retire-na-loja" style="width: 90px !important;max-width: 90px;">
                 </div>
                 <div class="diferenciais-content">
                     <strong>Drive-Thru</strong>
@@ -300,9 +302,19 @@
         </div> <!-- row -->
     </div> <!-- container -->
 
-
-
 </section> <!-- footer -->
+
+
+<section id="copyright">
+  <div>
+    <p>VTEX · Copyright © 2018   |   4440 Brigadeiro Faria Lima Ave, 15th Floor CEP: 04538-132, Itaim Bibi, São Paulo, SP</p>
+    <img src="img/vtex-gray.png" alt="vtex logo cinza">
+    <img src="img/ecan-gray.png" alt="ecan logo cinza">
+  </div>
+</section> <!-- copyright -->
+
+
+<div id='toTop'><img src="img/triangle.png" alt="">Voltar ao topo</div>
 
   
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
@@ -311,6 +323,9 @@
     <!-- SLICK SLIDER.MIN.JS e INIT: -->
   <script type="text/javascript" src="js/slick.min.js"></script>
   <script type="text/javascript" src="js/slick-init.js"> </script>
+
+    <!-- MAIN JS -->
+  <script type="text/javascript" src="js/main.js"></script>
 </body>
 
 </html>

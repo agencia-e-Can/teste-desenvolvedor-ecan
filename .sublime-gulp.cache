@@ -1,0 +1,1 @@
+{"C:\\ecan\\fork\\teste-desenvolvedor-ecan\\gulpfile.js":{"sha1":"9ab4fccaef649a23e53231cc8b947ca029b3e48c","tasks":{"sass":{"name":"sass","dependencies":""},"html":{"name":"html","dependencies":""},"watch":{"name":"watch","dependencies":"html sass"},"default":{"name":"default","dependencies":"watch"}}}}
