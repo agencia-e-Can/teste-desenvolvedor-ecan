@@ -1,0 +1,17 @@
+.products{
+    background: $primary-color;
+
+    .products-title{
+        font-size: 2em;
+    }
+
+    .products-text{
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .owl-carousel{
+        width: 100%;
+
+    }
+}

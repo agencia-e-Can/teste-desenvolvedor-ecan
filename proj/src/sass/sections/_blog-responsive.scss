@@ -1,0 +1,21 @@
+.blog{
+    border-top: 0;
+    h3{
+        font-size: 2em;
+    }
+    .blog-container{
+        align-items: center;
+        margin-top: 30px;
+
+        .post-item{
+            width: 300px;
+        }
+
+        .post-item:nth-child(2){
+            display: none;
+        }
+        .post-item:nth-child(3){
+            display: none;
+        }
+    }
+}

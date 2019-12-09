@@ -1,0 +1,52 @@
+.differentials{
+    @include section-width;
+
+    background: $link-color;
+
+    .differentials-title{
+        color: $sencondary-color;
+        font-family: $fourth-font;
+        font-size: 3.2em;
+
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .differentials-container{
+        display: flex;
+        justify-content: space-evenly;
+
+        margin-top: 30px;
+
+        .differentials-list{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+
+            .differentials-item{
+                display: flex;
+                
+                .differentials-icon{
+                    width: 90px;
+                    height: 90px;
+                }
+
+                .differential{
+                    width: 200px;
+                    margin-left: 30px;
+
+                    .differential-title{
+                        color: $sencondary-color;
+                        font-family: $primary-font;
+                        font-size: 1.3em;
+                    }
+
+                    .differential-text{
+                        color: $primary-color;
+                        font-family: $secondary-font;
+                    }
+                }
+            }
+        }
+    }
+}

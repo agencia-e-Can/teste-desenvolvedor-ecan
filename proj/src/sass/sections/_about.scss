@@ -1,0 +1,51 @@
+.about{
+    @include section-width;
+    padding-top: 100px;
+
+    display: flex;
+    justify-content: center;
+
+    .about-section-promo{
+        margin-right: 50px;
+
+        .about-logo{
+            display: flex;
+            justify-content: center;
+            margin-bottom: 50px;
+        }
+        .about-promo-video{
+            width: 400px;
+            height: 200px;
+    
+        }
+    }
+
+    .about-section-info{
+        max-width: 550px;
+        padding-bottom: 50px;
+
+        .about-info-title{
+            color: $sencondary-color;
+            font-family: $primary-font;
+            font-size: 3.2em;
+        }
+
+        .about-info-text{
+            color: $ternary-color;
+            font-family: $secondary-font;
+            margin-top: 30px;
+            line-height: 2em;
+        }
+        
+        .about-info-text:last-of-type{
+            margin-bottom: 30px;
+        }
+        
+        .about-info-link{
+            color: $link-color;
+            text-decoration: underline;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+    }
+}
