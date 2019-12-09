@@ -1,0 +1,18 @@
+.newsletter{
+
+    .newsletter-form{
+        .newsletter-form-button{
+            width: 110px;
+        }
+    }
+
+    .newsletter-title{
+        font-family: $primary-font;
+        font-weight: bold;
+        font-size: 2em;
+        padding-left: 30px;
+    }
+    .newsletter-text{
+        padding-left: 30px;
+    }
+}

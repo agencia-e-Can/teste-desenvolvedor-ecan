@@ -1,0 +1,27 @@
+.footer{
+    @include section-width;
+
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    color: $ternary-color;
+    font-size: 1em;
+
+    .footer-author{
+        display: flex;
+
+        .author-item{
+            display: flex;
+            flex-direction: column;
+            margin-right: 30px;
+
+            img{
+                margin-top: 20px;
+            }
+        }
+    }
+}

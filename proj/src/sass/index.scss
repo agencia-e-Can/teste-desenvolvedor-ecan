@@ -1,0 +1,31 @@
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'sections/main-section';
+@import 'sections/products';
+@import 'sections/differentials';
+@import 'sections/about';
+@import 'sections/blog';
+@import 'sections/newsletter';
+@import 'sections/info';
+@import 'sections/footer';
+
+
+@media (min-width: $breakpoint-mobile) and (max-width: $breakpoint-mobile-potrait) {
+
+    @import 'sections/products-responsive';
+    @import 'sections/differentials-responsive';
+    @import 'sections/about-responsive';
+    @import 'sections/blog-responsive';
+    @import 'sections/newsletter-responsive';
+    @import 'sections/info-responsive';
+    @import 'sections/footer-responsive';
+}
+
+@media (max-width: $breakpoint-mobile){
+    @import 'sections/main-section-responsive'; 
+}
+

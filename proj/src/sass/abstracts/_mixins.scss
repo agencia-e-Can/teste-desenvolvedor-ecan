@@ -1,0 +1,4 @@
+@mixin section-width {
+    max-width: $screen-max-width;
+    margin: 0 auto;
+}

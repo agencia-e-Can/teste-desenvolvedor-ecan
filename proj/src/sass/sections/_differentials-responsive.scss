@@ -1,0 +1,32 @@
+.differentials{
+    .differentials-title{
+        font-size: 2em;
+
+    }
+    .differentials-container{
+        flex-direction: column;
+        align-items: center;
+        margin-left: 30px;
+
+        .differentials-list{
+
+            .differentials-item{
+                padding-bottom: 30px;
+                align-items: center;
+
+                .differential-title{
+                    font-weight: bold;
+                }
+
+                .differential-text{
+                    display: none;
+                }
+            }
+        }
+
+        .differential-image{
+            display: none;
+        }
+    }
+
+}

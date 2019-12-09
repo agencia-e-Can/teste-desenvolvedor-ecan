@@ -1,0 +1,40 @@
+.info{
+    @include section-width;
+
+    display: flex;
+    // justify-content: center;
+    // align-items: center;
+
+    background: #11254f;
+
+    .info-container{
+        width: 100%;
+        margin: 50px 0px 50px 0px;
+
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+
+        .info-title{
+            font-family: $ternary-font;
+            color: $link-color;
+            padding-bottom: 30px;
+        }
+    
+        .company{
+            li{
+                padding-bottom: 10px;
+    
+                a{
+                    color: $primary-color;
+                }
+            }
+        }
+
+        .info-sec{
+            img{
+                margin-right: 30px;
+            }
+        }
+    }
+}
